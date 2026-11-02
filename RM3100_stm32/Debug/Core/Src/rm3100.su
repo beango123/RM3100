@@ -1,0 +1,7 @@
+../Core/Src/rm3100.c:10:26:RM3100_Write	32	static
+../Core/Src/rm3100.c:27:26:RM3100_Read	48	static
+../Core/Src/rm3100.c:45:19:RM3100_Init	48	static
+../Core/Src/rm3100.c:74:19:RM3100_StartSingle	32	static
+../Core/Src/rm3100.c:81:19:RM3100_WaitReady	24	static
+../Core/Src/rm3100.c:93:16:RM3100_Signed24	24	static
+../Core/Src/rm3100.c:102:19:RM3100_ReadXYZ	48	static
