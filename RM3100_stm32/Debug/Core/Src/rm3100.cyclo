@@ -1,0 +1,7 @@
+../Core/Src/rm3100.c:10:26:RM3100_Write	3
+../Core/Src/rm3100.c:27:26:RM3100_Read	2
+../Core/Src/rm3100.c:45:19:RM3100_Init	8
+../Core/Src/rm3100.c:74:19:RM3100_StartSingle	1
+../Core/Src/rm3100.c:81:19:RM3100_WaitReady	3
+../Core/Src/rm3100.c:93:16:RM3100_Signed24	2
+../Core/Src/rm3100.c:102:19:RM3100_ReadXYZ	3
